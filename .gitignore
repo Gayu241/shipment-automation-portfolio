@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Logs
+*.log
+
+# Excel temp files
+~$*.xlsm
+~$*.xlsx
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
