@@ -1,4 +1,4 @@
-\# Shipment Automation Platform
+# Shipment Automation Platform
 
 
 
@@ -6,7 +6,7 @@ An end-to-end business process automation solution developed using Python and Ex
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -18,73 +18,73 @@ Key capabilities include:
 
 
 
-\- Data processing and validation
+- Data processing and validation
 
-\- Excel report generation
+- Excel report generation
 
-\- Automated workflow execution
+- Automated workflow execution
 
-\- Progress tracking
+- Progress tracking
 
-\- Error handling and logging
+- Error handling and logging
 
-\- User-friendly Excel interface
-
-
-
-\## Technologies Used
+- User-friendly Excel interface
 
 
 
-\- Python
-
-\- Excel VBA
-
-\- OpenPyXL
-
-\- Pandas
-
-\- Outlook Automation
-
-\- Enterprise Workflow Automation
+## Technologies Used
 
 
 
-\## Features
+- Python
+
+- Excel VBA
+
+- OpenPyXL
+
+- Pandas
+
+- Outlook Automation
+
+- Enterprise Workflow Automation
 
 
 
-\### Excel Frontend
-
-\- Button-driven interface
-
-\- User-friendly workflow execution
-
-\- Status monitoring
+## Features
 
 
 
-\### Automation Engine
+### Excel Frontend
 
-\- Business rule processing
+- Button-driven interface
 
-\- Data validation
+- User-friendly workflow execution
 
-\- Report generation
-
-
-
-\### Reporting
-
-\- Automated Excel outputs
-
-\- Data transformation
-
-\- Exception tracking
+- Status monitoring
 
 
 
-\## Disclaimer
+### Automation Engine
+
+- Business rule processing
+
+- Data validation
+
+- Report generation
+
+
+
+### Reporting
+
+- Automated Excel outputs
+
+- Data transformation
+
+- Exception tracking
+
+
+
+## Disclaimer
 
 
 
